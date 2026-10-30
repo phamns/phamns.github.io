@@ -107,7 +107,7 @@ My research focuses on general equilibrium and financial markets, asset-price bu
 
 ## Optimization and applied mathematics
 
-1. Bosi, S., Desmarchelier, D., Pham, N.-S. (2026) [A note on first-order and transversality conditions in infinite-horizon continuous-time optimal control models](https://arxiv.org/abs/2603.26256). **Economics Letters**. (Accept without Revision.)
+1. Bosi, S., Desmarchelier, D., Pham, N.-S. (2026) [A note on first-order and transversality conditions in infinite-horizon continuous-time optimal control models](https://arxiv.org/abs/2603.26256). **Economics Letters**.
 2. Gourdel, P., Le Van, C., Pham, N.-S., Tran-Viet, C. (2026). [Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems](https://doi.org/10.1007/s10957-026-02971-x). **Journal of Optimization Theory and Applications**, 209, 24 (2026).
 3. Le, T., Le Van, C., Pham, N.-S.,  Saglam, C. (2022). [A Direct Proof of the Gale–Nikaido–Debreu Lemma Using Sperner’s Lemma](https://doi.org/10.1007/s10957-022-02067-2), **Journal of Optimization Theory and Applications** 194, 1072–1080 (2022).
 4. Bonnel, H., Pham, N.-S. (2011). [Nonsmooth optimization over the (weakly or properly) Pareto set of a linear-quadratic multi-objective control problem: Explicit optimality conditions.](https://aimsciences.org/journals/displayArticlesnew.jsp?paperID=6386) **Journal of Industrial and Management Optimization**, vol. 7, No. 4, p. 789-809, (2011).
