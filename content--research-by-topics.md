@@ -11,16 +11,17 @@ My research focuses on general equilibrium and financial markets, asset-price bu
 ## General equilibrium theory with and without financial constraints
 
 1. Pham, N.-S. (2026). [The relationship between general equilibrium models with infinite-lived agents and overlapping generations models, and some applications](https://doi.org/10.1016/j.mathsocsci.2026.102553). **Mathematical Social Sciences** 142 (2026) 102553.
-2. Le Van, C., Pham, N.-S. (2025). [Equilibrium with non-convex preferences: some insights.](https://onlinelibrary.wiley.com/share/author/XCTP7MTSYWEI83YADT8U?target=10.1111/boer.70024) **Bulletin of Economic Research**.
+2. Gourdel, P., Le Van, C., Pham, N.-S., Tran-Viet, C. (2026). [Hartman-Stampacchia theorem, Gale-Nikaidô-Debreu lemma, and Brouwer and Kakutani fixed-point theorems](https://doi.org/10.1007/s10957-026-02971-x). **Journal of Optimization Theory and Applications**, 209, 24 (2026).
+3.  Le Van, C., Pham, N.-S. (2025). [Equilibrium with non-convex preferences: some insights.](https://onlinelibrary.wiley.com/share/author/XCTP7MTSYWEI83YADT8U?target=10.1111/boer.70024) **Bulletin of Economic Research**.
    - [Published version](https://onlinelibrary.wiley.com/share/author/XCTP7MTSYWEI83YADT8U?target=10.1111/boer.70024). Working paper version (2025): [Equilibrium with non-convex preferences: some insights.](https://arxiv.org/abs/2503.16890) ([First version, 2021.)](https://mpra.ub.uni-muenchen.de/106774/1/MPRA_paper_106774.pdf)
-3. Le, T., Le Van, C., Pham, N.-S.,  Saglam, C. (2024). [Sperner's lemma and competitive equilibrium with incomplete financial markets](https://doi.org/10.1016/j.econlet.2024.111720), **Economics Letters,** volume 328, May2024, 111720.
+4. Le, T., Le Van, C., Pham, N.-S.,  Saglam, C. (2024). [Sperner's lemma and competitive equilibrium with incomplete financial markets](https://doi.org/10.1016/j.econlet.2024.111720), **Economics Letters,** volume 328, May2024, 111720.
    - [Working paper version](https://hal.science/hal-04552148).
-4. Le, T., Le Van, C., Pham, N.-S.,  Saglam, C. (2022). [A Direct Proof of the Gale–Nikaido–Debreu Lemma Using Sperner’s Lemma](https://doi.org/10.1007/s10957-022-02067-2), **Journal of Optimization Theory and Applications** 194, 1072–1080 (2022).
-5. Le Van, C., Pham, N.-S. (2020). [Demand and equilibrium with inferior and Giffen behaviors](https://ideas.repec.org/p/pra/mprapa/92709.html), **Mathematical Social Sciences**, vol. 103,  p. 45-50 (2020).
-6. Bosi, S., Le Van, C., Pham, N.-S. (2018). [Intertemporal equilibrium with heterogeneous agents, endogenous dividends and collateral constraints](https://www.sciencedirect.com/science/article/pii/S0304406818300156), **Journal of Mathematical Economics,** vol. 76, p. 1-20 (2018).
+5. Le, T., Le Van, C., Pham, N.-S.,  Saglam, C. (2022). [A Direct Proof of the Gale–Nikaido–Debreu Lemma Using Sperner’s Lemma](https://doi.org/10.1007/s10957-022-02067-2), **Journal of Optimization Theory and Applications** 194, 1072–1080 (2022).
+6. Le Van, C., Pham, N.-S. (2020). [Demand and equilibrium with inferior and Giffen behaviors](https://ideas.repec.org/p/pra/mprapa/92709.html), **Mathematical Social Sciences**, vol. 103,  p. 45-50 (2020).
+7. Bosi, S., Le Van, C., Pham, N.-S. (2018). [Intertemporal equilibrium with heterogeneous agents, endogenous dividends and collateral constraints](https://www.sciencedirect.com/science/article/pii/S0304406818300156), **Journal of Mathematical Economics,** vol. 76, p. 1-20 (2018).
    - We provide a characterization to check whether a sequence is an equilibrium or not; transversality conditions are proved. We introduce a theory of valuation of an asset that can be used as input by many producers.
    - See our working paper version ([PDF](https://ideas.repec.org/p/pra/mprapa/84905.html)) with omitted proofs (last step of the proof of part 2 of Proposition 1).
-7. Le Van, C., Pham, N.-S. (2016). [Intertemporal equilibrium with financial asset and physical capital](http://link.springer.com/article/10.1007/s00199-015-0881-z?wt_mc=email.event.1.SEM.ArticleAuthorOnlineFirst), **Economic Theory**, vol. 62, p. 155-199 (2016). Working paper version ([PDF](ftp://mse.univ-paris1.fr/pub/mse/CES2014/14085R.pdf))
+8. Le Van, C., Pham, N.-S. (2016). [Intertemporal equilibrium with financial asset and physical capital](http://link.springer.com/article/10.1007/s00199-015-0881-z?wt_mc=email.event.1.SEM.ArticleAuthorOnlineFirst), **Economic Theory**, vol. 62, p. 155-199 (2016). Working paper version ([PDF](ftp://mse.univ-paris1.fr/pub/mse/CES2014/14085R.pdf))
    - We investigate the interaction between financial market and production sector, and rational bubbles of several assets.
 
 **Book chapters:**
