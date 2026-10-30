@@ -3,7 +3,7 @@ Academic publications, manuscripts and working papers, arranged in reverse chron
 
 ## Peer-reviewed journal articles
 
-1. Bosi, S., Desmarchelier, D., Pham, N.-S. (2026) [A note on first-order and transversality conditions in infinite-horizon continuous-time optimal control models](https://arxiv.org/abs/2603.26256). **Economics Letters**. (Accept without Revision.)
+1. Bosi, S., Desmarchelier, D., Pham, N.-S. (2026) [A note on first-order and transversality conditions in infinite-horizon continuous-time optimal control models](https://arxiv.org/abs/2603.26256). **Economics Letters**.
 2. Pham, N.-S., Toda, A. A. (2026). [Comment on 'Asset Bubbles and Overlapping Generations' by Jean Tirole](https://www.econometricsociety.org/publications/econometrica/2026/05/01/Comment-on-Asset-Bubbles-and-Overlapping-Generations-by-Jean-Tirole). **Econometrica**, Vol. 94, No. 3 (May, 2026), 1027-1044.
    - [Working paper version](https://arxiv.org/abs/2507.12477)
 3. Pham, N.-S. (2026). [The relationship between general equilibrium models with infinite-lived agents and overlapping generations models, and some applications](https://doi.org/10.1016/j.mathsocsci.2026.102553). **Mathematical Social** **Sciences** 142 (2026) 102553.
