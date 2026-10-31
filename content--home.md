@@ -4,8 +4,6 @@
 
 *(Phạm Ngọc Sáng in Vietnamese)*
 
-**Professor of Economics · University of Lorraine · BETA**
-
 
 [CV](https://drive.google.com/file/d/16Qc3ZVbjrF9_-KjVyXSYvdypcI-IvJ3g/view?usp=sharing) 
 
